@@ -1,0 +1,13 @@
+Strengths - (S1 - Educational Background) - I have my education in computer science (both bachelors and masters)
+(S2 - Analytical) - I am very analytical in my approach 
+(S3 - Detail Oriented) - I am very detailed oriented and put accuracy high up on my list
+(S4 - Quick learner) - I get excited about learning new technology. I believe that i am a quick leaner
+
+Weakness - (W1 - Limited Experience) - I do not have a lot of work experience 
+(W2 - Communication) - As i am new to USA, i sometime have hard time trying to understand the accent 
+
+Opportunity - (O1 - Demand) - There is always a high demand for IT jobs in the market. I am hopeful that there are plenty of opportunities available
+(O2 - CodeWorks) - I believe that CodeWorks is an opportunity for me to learn new skills and make myself available in the market
+
+Threats - (T1 - Market) - With the current situation after the pandemic, the job market is not that great as it used to be
+(T2 - Offshore) - As a lot of IT jobs are going offshore, this is creating more competition as less and less jobs are available on US soil
